@@ -1,0 +1,10 @@
+"Properties" {
+	"Authors"		"The_Enderek0"
+	"Tags"			"Custom"
+	"Description"	"Custom entrances and exits for your test chamber. **DO NOT delete the exit or entrance, while using the custom entrances/exits as this will break them! Just hide the normal exit/entrance!** Start reversed - when checked changes the item from entrance to exit. Start enabled switches the exit to be locked or unlocked. Inputs connected to entrances don't do anything! **Exits won't reset the map in PeTI editor, but they will work properly in workshop!**"
+	"infoURL"		"https:/\/google.com/"
+	"Ent_count"     "23"
+	"Icon" {
+		"0"	"clean/portal_entrance.png"
+	}
+}

@@ -1,0 +1,10 @@
+"Properties" {
+	"Authors"		"The_Enderek0"
+	"Tags"			"Custom"
+	"Description"	"Custom entrances and exits for your test chamber. **DO NOT delete the exit or entrance, while using the teleporters as this will break them! Just hide the exit!** Start reversed - when checked changes the teleporter from entrance to exit. Start enabled switches the exit teleporter to be locked or unlocked. Inputs connected to entrance teleporters don't do anything! **Exit teleporters won't reset the map in PeTI editor, but they will work properly in workshop!**"
+	"infoURL"		"https:/\/google.com/"
+	"Ent_count"     "9"
+	"Icon" {
+		"0"	"clean/teleporter.png"
+	}
+}

@@ -1,0 +1,10 @@
+"Properties" {
+	"Authors"		"The_Enderek0"
+	"Tags"			"Custom"
+	"Description"	"Test chamber sign seen in entrance. It will automatically turn on when you step into the test chamber. Start reversed makes it only activated by input."
+	"infoURL"		"https:/\/google.com/"
+	"Ent_count"     "4"
+	"Icon" {
+		"0"	"clean/info_sign.png"
+	}
+}

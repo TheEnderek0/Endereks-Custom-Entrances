@@ -1,0 +1,47 @@
+"ID" "Enderek-s_custom_entrances"
+"Item" {
+	"ID" "ITEM_SIGN"
+	"Version" {
+		"ID" "VER_DEFAULT"
+		"Styles" {
+			"ANY_STYLE" "clean/info_sign"
+}}}
+
+"Item" {
+	"ID" "ITEM_TELEPORTER"
+	"Version" {
+		"Styles" {
+			"ANY_STYLE" "clean/teleporter_entry-exit"
+}}}
+
+"Item" {
+	"ID" "ITEM_PORTAL_ENTRANCE"
+	"Version" {
+		"Styles" {
+			"BEE2_CLEAN" "clean/portal_entrance"
+			"BEE2_PORTAL_1" "P1/portal_entrance"
+}}}
+"BrushTemplate"
+	{
+	"ID"    "temp_portal_entrance"
+	"file"  "portal_entrance.vmf"
+	}
+"BrushTemplate"
+	{
+	"ID"    "temp_portal_entrance_blank"
+	"file"  "portal_entrance_blank.vmf"
+	}
+
+"Item" {
+	"ID" "ITEM_DROP_EXIT"
+	"Version" {
+		"Styles" {
+			"ANY_STYLE" "clean/drop_exit"
+}}}
+
+"Item" {
+	"ID" "ITEM_DROP_ENTRANCE"
+	"Version" {
+		"Styles" {
+			"ANY_STYLE" "clean/drop_entrance"
+}}}
